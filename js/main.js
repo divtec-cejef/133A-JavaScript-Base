@@ -8,8 +8,9 @@
 (function main() {
   'use strict'; // Demande un interprétation stricte du code
 
-  let a = 'Bonjour';
+    let a = 'Bonjour';
+    let b = 'toto';
 
-  console.log(a);
+    console.log(a, b);
 }()); // Main IIFE
 
