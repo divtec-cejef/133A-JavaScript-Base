@@ -6,7 +6,7 @@
  */
 
 (function main() {
-  'use strict'; // Demande un interprétation stricte du code
+  'use strict'; // Demande une interprétation stricte du code
 
     let a = 'Bonjour';
     let b = 'toto';
